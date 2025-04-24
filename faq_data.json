@@ -1,0 +1,27 @@
+[
+    {
+      "question": "What are your business hours?",
+      "answer": "Our regular business hours are Monday through Friday, from 9 AM to 5 PM Central Time."
+    },
+    {
+      "question": "Where are you located?",
+      "answer": "We are located at 123 Main Street, Austin, Texas, 78701, United States."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept Visa, Mastercard, American Express, and PayPal."
+    },
+    {
+      "question": "What is your return policy?",
+      "answer": "Our return policy allows you to return most items within 30 days of purchase for a full refund. Please see our full return policy page for details."
+    },
+    {
+      "question": "Do you offer international shipping?",
+      "answer": "Yes, we do offer international shipping to select countries. Please check our shipping page for a list of supported countries and rates."
+    },
+    {
+      "question": "How can I contact customer support?",
+      "answer": "You can contact our customer support team by emailing support@example.com or calling us at (512) 555-1212."
+    }
+    
+  ]
